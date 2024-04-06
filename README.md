@@ -1,1 +1,7 @@
-a
+![Home](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/86b0f15c-fa60-4739-849d-31f4b7ecfbd1)
+![RESULT](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/268e3624-1902-4e2a-a759-8d69b4eaf5cf)
+![MESSAGEBOX](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/a9594398-fd03-45cd-ac65-72969fe31b92)
+![Home](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/f409a8ef-6112-4128-8f0b-7d301a109a70)
+![HOME WITH](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/4225e99c-94c1-4a25-bf29-38e19e4805c5)
+![ERRORMESAGE](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/8f9ffad0-5f1d-4000-8d0c-44cddaf1bc9e)
+![ERRORFORMAT](https://github.com/RianzDev/IMC-CALCULATOR/assets/158506928/47161324-d000-4e37-86b1-f00016e7f650)
